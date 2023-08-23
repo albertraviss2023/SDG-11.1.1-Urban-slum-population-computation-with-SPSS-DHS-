@@ -9,7 +9,7 @@ This Code Project provides the code that can be used to produce these indicators
 
 ## Main files:
 The parent folder contains a Main .sps script File from which the user can run all the code at once (.sps) to compute slum indicators. 
-and produce a custom tables for the final report. The user needs to change the paths in the data File. The parent folder also contains 2 output files produced when the code is run properly. 
+and produce a custom tables for the final report. The user needs to change the paths in the data File. The parent folder also contains 2 output files (.spv and word) and a custom table (word) produced when the code is run properly.  
 These will show the code execution output and a table that can be used for reporting. 
 
 ## Working with older surveys:
