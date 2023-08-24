@@ -1,5 +1,5 @@
 The goal of this project is to compute urban population living in slums using DHS Data. 
-This project is aimed at providing SPSS code for all DHS Program computation of slum indictors as defined by SDG 11.1. That is, slum dwelling is measured using lack of access to improved water, improved sanitation, sufficient living area, improved housing and lack of security of tenure for slums.
+This project is aimed at providing SPSS code for all DHS Program computation of slum indictors as defined by SDG 11.1. That is, slum dwelling is measured using lack of access to improved water, improved sanitation, sufficient living area, improved housing as defined by UN-Habitat.
 
 ## General instructions:
 This Code Project provides the code that can be used to produce these indicators as well as the standard tables to produce a report on World urban slum population. The code is organized into one single file in the parent folder and all guidelines from the Guide to DHS Statistics have been followed.   
