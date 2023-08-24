@@ -120,7 +120,7 @@ val lab slumthre 0 "Non-slum" 1 "Slum".
 
 execute. 
 
-* Step Five:  tabulate results using custom tables of count and percentages
+* Step Five:  tabulate results using custom tables
     
 CTABLES 
   /VLABELS VARIABLES=slumthre classgrp class DISPLAY=LABEL 
